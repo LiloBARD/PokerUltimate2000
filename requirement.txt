@@ -1,0 +1,6 @@
+Pour que le code puisse fonctionner il faut:
+-Python 3.0
+-2 PC en réseau local(avec leur adresse IP)
+-Windows 10/11
+-Ecran d'une taille d'environ: 1920px/1080px (risque de problèmes d'affichage si l'écran est trop petit)
+-Si l'erreur " WinError 10060" apparaît lors de l'exécution du programme , vérifiez que votre antivirus soit bien désactivé car il peut bloquer les communications
